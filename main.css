@@ -1,0 +1,54 @@
+body {
+	margin: *;
+	text-align: center;
+	background-color: #C8C8C8;
+}
+h1 {
+	margin-bottom: 30px;
+	color: white;
+}
+strong, img {
+	display: block;
+}
+img {
+	margin: 0 auto;
+	border-radius: 10px;
+}
+#logout {
+	margin-top: 10px;
+}
+
+#login-template{
+
+	background: black;
+	width: 100%;
+min-height: 100%;
+height: auto !important;
+position: fixed;
+top:0; 
+left:0;
+
+}
+#fondo{
+	 margin: 50px auto;
+	height: 400px;
+	width:  700px;
+   
+    background:
+      
+       url("./images/trono_hierro.jpg") 50% 30px no-repeat,
+       url("./images/fondo-humo.jpg") 0 0 no-repeat;
+
+   
+    background-color: #cccccc;
+	
+}
+#login{
+
+	margin-top: 20%;
+}
+
+h2{
+
+	margin-top: 10%;
+}
